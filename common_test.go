@@ -1,4 +1,4 @@
-package parse // import "github.com/tdewolff/parse"
+package parse // import "github.com/plazma0/parse"
 
 import (
 	"encoding/base64"
