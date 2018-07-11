@@ -1,4 +1,4 @@
-package css // import "github.com/tdewolff/parse/css"
+package css // import "github.com/plazma0/parse/css"
 
 import (
 	"bytes"
