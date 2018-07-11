@@ -6,7 +6,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/tdewolff/parse"
+	"github.com/plazma0/parse"
 )
 
 var wsBytes = []byte(" ")
