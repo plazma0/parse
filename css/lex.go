@@ -9,7 +9,7 @@ import (
 	"strconv"
 
 	"github.com/tdewolff/buffer"
-	"github.com/tdewolff/parse"
+	"github.com/plazma0/parse"
 )
 
 ////////////////////////////////////////////////////////////////
